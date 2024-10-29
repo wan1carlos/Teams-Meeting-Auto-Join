@@ -15,3 +15,7 @@ This Python application, built with Tkinter and Selenium, provides a graphical u
 - Install dependencies:
   ```bash
   pip install tkcalendar schedule selenium
+
+## How does it work?
+- It launches the Teams link that the user will input and will click the necessary buttons to join the meeting.
+- It also automatically mutes your mic before joining.

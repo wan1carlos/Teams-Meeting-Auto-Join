@@ -9,6 +9,8 @@ This Python application, built with Tkinter and Selenium, provides a graphical u
 
 ## Requirements
 
+- Chromium Driver
+- Chrome version must be compatible with chrome Driver
 - Python 3.x
 - Install dependencies:
   ```bash
